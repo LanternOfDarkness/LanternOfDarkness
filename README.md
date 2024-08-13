@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LanternOfDarkness
-- 👀 I’m interested in Golang and Python
+- 👀 I’m interested in C# and NASM, also Golang and Python
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on web development, if you are web designer, we can work together.
+- 💞️ I’m looking to collaborate on web development, if you are a web designer, we can work together.
 - 📫 How to reach me: oleksii.velychko.emp@gmail.com
 
 <!---
